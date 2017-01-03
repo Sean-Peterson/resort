@@ -1,4 +1,26 @@
 body {
+  background-color: yellow;
+  padding: 20px;
+}
+
+img {
+  width: 50%;
+}
+
+img.center {
+  margin: auto;
+  display: block;
+}
+
+h1 {
   text-align: center;
-  font-family: serif;
+}
+
+h1, h2, h3 {
+  font-family: cursive, Arial;
+
+}
+
+a {
+  color: skyblue;
 }
