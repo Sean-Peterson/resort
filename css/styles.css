@@ -1,6 +1,8 @@
 body {
-  background-color: yellow;
   padding: 20px;
+  font-family: serif;
+  background-color: tan;
+  color: maroon;
 }
 
 img {
@@ -18,9 +20,22 @@ h1 {
 
 h1, h2, h3 {
   font-family: cursive, Arial;
-
 }
 
 a {
-  color: skyblue;
+  color: maroon;
+}
+
+#homeimg {
+  height: 40%;
+  width: 40%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.img {
+  height: 30%;
+  width: 30%;
 }
